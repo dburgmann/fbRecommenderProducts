@@ -11,10 +11,10 @@ import java.util.List;
  * @author Daniel
  */
 public class Products {
-    public static final String DB_NAME         = "jdbc:mysql://tud.codest.de:3306/burgmann";
-    public static final String DB_USER         = "burgmann";
-    public static final String DB_PW           = "63wsNCtX";
-    public static final String TABLE           = "products3";
+    public static final String DB_NAME         = "";
+    public static final String DB_USER         = "";
+    public static final String DB_PW           = "";
+    public static final String TABLE           = "";
     
     public static final String LABEL_BABY      = "Baby";
     public static final String LABEL_GIRLS     = "Mädchen";
